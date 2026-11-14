@@ -15,7 +15,7 @@
 
 ---
 
-Memulai (Getting Started)
+Memulai
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer lokal Anda.
 
@@ -28,7 +28,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
     - https://openai.com/id-ID/api/
 
  3. Buatlah .env dengan format berikut :
-    '''
+    '''bash
     OPENAI_API_KEY= sk-Api kamu
     OPENAI_MODEL=gpt-6-luna
     '''
